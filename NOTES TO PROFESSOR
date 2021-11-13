@@ -63,7 +63,7 @@
                                                                                              `_`                      ,a#@@@@BX,   
                                                                                                                         `'',,`     
                                                                                                                                                                                                                                                   
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Main file is default_gui.py and calls/references everything else from there.  Thanks for an awesome class!
+- Main file is default_gui.py and calls/references everything else from there.
 - Main library for facial recognition https://github.com/carolinedunn/facial_recognition
